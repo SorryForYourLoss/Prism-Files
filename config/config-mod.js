@@ -11,7 +11,7 @@
 
 	'influenceiv': '',
 	'rival': '',
-	'rosepetal': '',
+	'rosepetal': '', // rosepetal: 'rosepetal1.png', // rosepetal: 'rosepetal2.png',
 	'ashiemore': ''
 };
 
