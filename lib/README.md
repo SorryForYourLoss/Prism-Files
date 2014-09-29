@@ -2,4 +2,4 @@
 
 <b> UPLOAD CUSTOM AVATARS </b>
 
-# Add your custom avatar in this folder
+# Add your custom avatar in this folder.
